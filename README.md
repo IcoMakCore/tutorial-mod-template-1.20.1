@@ -17,7 +17,7 @@ if you want to help me you can add me on discord or even do commits there.
 
 ## ⬇️ Download & Install
 ### For Windows
-You can find the Download of the Mod Is coming soon.
+The Download of the Mod Is coming soon.
 
 
 - Dev Icomak 
