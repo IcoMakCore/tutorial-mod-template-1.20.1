@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "tutorial-mod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "tutorial-mod:sapphire",
+    "count" : 9
+  }
+}
