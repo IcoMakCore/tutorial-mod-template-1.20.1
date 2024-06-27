@@ -1,4 +1,4 @@
-##📦 Mod Sender
+## 📦 Mod Sender
 Hello everyone, and I'm making a minecraft mod for the first time!
 
 Make sure to Add me on discord [Discord](https://discord.com/users/790204007338868756) for any support or bug reports!
