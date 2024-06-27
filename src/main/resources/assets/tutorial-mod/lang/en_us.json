@@ -1,4 +1,7 @@
 {
   "item.tutorial-mod.sapphire": "Sapphire",
-  "item.tutorial-mod.scalimbo": "Scalimbo"
+  "item.tutorial-mod.scalimbo": "Scalimbo",
+  "item.tutorial-mod.raw_sapphire": "Raw Sapphire",
+
+  "itemgroup.sapphire": "Sapphire Tutorial Group"
 }
