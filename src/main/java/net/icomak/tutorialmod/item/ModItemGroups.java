@@ -2,6 +2,7 @@ package net.icomak.tutorialmod.item;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.icomak.tutorialmod.TutorialMod;
+import net.icomak.tutorialmod.block.ModBlocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
@@ -20,6 +21,9 @@ public class ModItemGroups {
                         entries.add(ModItems.SAPPHIRE);
                         entries.add(ModItems.RAW_SAPPHIRE);
 
+                        entries.add(ModBlocks.SAPPHIRE_BLOCK);
+                        entries.add(ModBlocks.RAW_SAPPHIRE_BLOCK);
+
                     }).build());
 
     // Scalimbo page
@@ -27,8 +31,11 @@ public class ModItemGroups {
             new Identifier(TutorialMod.MOD_ID, "scalimbo"),
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.scalimbo"))
                     .icon(() -> new ItemStack(ModItems.SCALIMBO)).entries((displayContext, entries) -> {
+
                         entries.add(ModItems.SCALIMBO);
+                        entries.add(ModBlocks.SCALIMBO_BLOCK);
                         entries.add(Items.DIRT);
+
 
                     }).build());
 

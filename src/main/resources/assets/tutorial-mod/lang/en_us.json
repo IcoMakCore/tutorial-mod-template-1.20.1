@@ -3,6 +3,10 @@
   "item.tutorial-mod.scalimbo": "Scalimbo",
   "item.tutorial-mod.raw_sapphire": "Raw Sapphire",
 
+  "block.tutorial-mod.sapphire_block": "Block of Sapphire",
+  "block.tutorial-mod.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.tutorial-mod.scalimbo_block": "Scalimbo Block",
+
   "itemgroup.sapphire": "Sapphire Tutorial Group",
   "itemgroup.scalimbo": "Scalimbo Merda"
 }

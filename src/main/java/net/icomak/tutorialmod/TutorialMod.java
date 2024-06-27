@@ -2,6 +2,7 @@ package net.icomak.tutorialmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.icomak.tutorialmod.block.ModBlocks;
 import net.icomak.tutorialmod.item.ModItemGroups;
 import net.icomak.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -16,6 +17,8 @@ public class TutorialMod implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 
 		ModItemGroups.registerItemGroups();
+
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
